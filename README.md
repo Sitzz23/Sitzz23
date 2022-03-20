@@ -1,16 +1,12 @@
-<img src="" width="100px">
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE7hXQYZc0&#x2F;view?utm_content=DAE7hXQYZc0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-  
+
+![banner](https://user-images.githubusercontent.com/71924449/159167979-4ece50ae-6815-45e8-a751-b5dce7013080.png)
+ 
 <h1 align = "center" >Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sitanshu.</h1>
 
 <h3 align="center">Passionate Frontend Developer</h3>
-
 <br>
 
-- 🌱 I’m currently learning **three, next, and mongo**
-
-- 💬 Ask me about **react, tailwind**
+- 🌱 I’m currently learning **three.js, next.js, and mongoDb**
 
 - 📫 How to reach me **sitz2309@gmail.com**
 
