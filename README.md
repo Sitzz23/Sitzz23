@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Frontend Developer</h3>
 <br>
 
-- 🌱 I’m currently learning **three.js, next.js, and mongoDb**
+- 🌱 I’m currently learning **three.js, blockchain**
 
 - 📫 How to reach me **sitz2309@gmail.com**
 
